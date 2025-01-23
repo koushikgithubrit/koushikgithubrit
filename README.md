@@ -42,11 +42,11 @@
 <table width="100%">
   <tr align="center">
     <th>Web App Development</th>
-    <th>Smart Device Development</th>
     <th>Mobile App Development</th>
     <th>Programming Languages</th>
     <th>Other Tools</th>
     <th>Deployment</th>
+    <th>Smart Device Development</th>
   </tr>
   <tr>
     <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></td>
