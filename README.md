@@ -25,8 +25,8 @@
       <ul>
         <li>🔭 I’m currently working on <a href="https://github.com/">BudVentures</a></li>
         <li>💬 Contact me for work: Full Stack Web and Mobile Applications</li>
-        <li>📫 How to reach me: <a href="mailto:@gmail.com">Mail</a></li>
-        <li>⚡ Fun fact: I'm </li>
+        <li>📫 How to reach me: <a href="mailto:koushikadakka07@gmail.com">Mail</a></li>
+        <li>⚡ Fun fact: I'm tech wizard</li>
       </ul>
     </td>
     <td>
@@ -42,6 +42,7 @@
 <table width="100%">
   <tr align="center">
     <th>Web App Development</th>
+    <th>Smart Device Development</th>
     <th>Mobile App Development</th>
     <th>Programming Languages</th>
     <th>Other Tools</th>
@@ -104,6 +105,6 @@
 Feel free to reach out to me on any of these platforms:
 
 <div>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin-circled.png" alt="LinkedIn" width="auto" height="40"/></a>
+  <a href="https://www.linkedin.com/in/koushik-adak-187669248/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin-circled.png" alt="LinkedIn" width="auto" height="40"/></a>
   <a href="https://x.com/" target="_blank"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/07/twitter-x-logo-freelogovectors.net_.png" alt="X" width="auto" height="40"/></a>
 </div>
